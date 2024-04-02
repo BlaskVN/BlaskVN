@@ -1,4 +1,4 @@
-<a href="❤️" target="[My home](https://github.com/BlaskVN)">
+<a href="https://github.com/BlaskVN" target="blank" alt="❤️">
   <img src="svg/blask.svg" width="1200" alt="Blask" />
 </a>
 
