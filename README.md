@@ -61,7 +61,7 @@
   <a href="https://www.linkedin.com/in/blask" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="Blask-linkedin" />
   </a> -->
-  <a href="https://instagram.com/blask" target="blank">
+  <a href="https://www.instagram.com/blask.pqm" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="Blask-instagram" />
   </a>
   <a href="mailto:blaskvn+mailfromgithub@gmail.com" target="top">
