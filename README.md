@@ -42,10 +42,10 @@
 <br>
 <div align=center>
   <a href="#" title="Blask">
-    <img width="390" align="center" src="https://github-readme-stats.vercel.app/api?username=BlaskVN&theme=merko&hide_border=true&include_all_commits=true&count_private=true" alt="BlaskVN" />
+    <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlaskVN&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="BlaskVN" />
   </a>
   <a href="#" title="Blask">
-    <img align="right" width="390" src="https://github-readme-stats.vercel.app/api?username=BlaskVN&theme=merko&hide_border=true&include_all_commits=true&count_private=true" alt="Blask" />
+    <img align="right" height="200" src="https://github-readme-stats.vercel.app/api?username=BlaskVN&theme=merko&hide_border=true&include_all_commits=true&count_private=true" alt="Blask" />
   </a>
 </div>
 
