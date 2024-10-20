@@ -55,7 +55,7 @@
 <!-- https://icons8.com -->
 <div align="center">
     <a href="https://facebook.com/blask.pqm" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="Blask-facebook" />
+    <img src="svg/fb.svg" alt="Blask-facebook" />
   </a>
   <!-- <a href="https://www.youtube.com" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="Blask-youtube" />
@@ -64,10 +64,10 @@
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="Blask-linkedin" />
   </a> -->
   <a href="https://www.instagram.com/blask.pqm" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="Blask-instagram" />
+    <img src="svg/ig.svg" alt="Blask-instagram" />
   </a>
   <a href="mailto:blaskvn+mailfromgithub@gmail.com" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="Blask-email" />
+    <img src="svg/email.svg" alt="Blask-email" />
   </a>
 </div>
 
