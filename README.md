@@ -78,4 +78,8 @@
   <img align="center" src="svg/blask-quotes.svg" width="846" height="150" alt="Blask-official" />
 </a>
 
-# [![](https://visitcount.itsvg.in/api?id=BlaskVN&icon=10&color=13)](https://visitcount.itsvg.in)
+#
+<div align="center">
+
+![](https://visitcount.itsvg.in/api?id=BlaskVN&icon=10&color=13)
+</div>
