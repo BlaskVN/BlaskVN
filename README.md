@@ -42,10 +42,8 @@
 <br>
 <div align=center>
   <a href="#" title="Blask">
-    <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlaskVN&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="BlaskVN" />
-  </a>
-  <a href="#" title="Blask">
-    <img align="right" height="200" src="https://github-readme-stats.vercel.app/api?username=BlaskVN&theme=merko&hide_border=true&include_all_commits=true&count_private=true" alt="Blask" />
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlaskVN&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="BlaskVN" />
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=BlaskVN&theme=merko&hide_border=true&include_all_commits=true&count_private=true" alt="Blask" />
   </a>
 </div>
 
@@ -70,14 +68,15 @@
   </a>
 </div>
 
-<br>
+
 <h2 align="center">📑Châm ngôn/Maxim/マキシム 📑</h2>
-<br>
-<a href="#" target="_blank">
-  <img align="center" src="svg/blask-quotes.svg" width="846" height="150" alt="Blask-official" />
-</a>
+
+<div align="center">
+<img src="svg/blask-quotes.svg" width="846" height="150" alt="Blask-official" />
+</div>
 
 #
+
 <div align="center">
 
 ![](https://visitcount.itsvg.in/api?id=BlaskVN&icon=10&color=13)
