@@ -41,31 +41,23 @@
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
 <div align=center>
-  <a title="Blask">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlaskVN&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="BlaskVN" />
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=BlaskVN&theme=merko&hide_border=true&include_all_commits=true&count_private=true" alt="Blask" />
-  </a>
+<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlaskVN&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="BlaskVN" />
+<img height="200" src="https://github-readme-stats.vercel.app/api?username=BlaskVN&theme=merko&hide_border=true&include_all_commits=true&count_private=true" alt="Blask" />
 </div>
 
 <h2 align="center">🦁 Where to find me 🦁</h2>
 
 <!-- https://icons8.com -->
 <div align="center">
-    <a href="https://facebook.com/blask.pqm" style="text-decoration:none;" target="blank">
-    <img src="svg/fb.svg" alt="Blask-facebook" />
-  </a>
+<a href="https://facebook.com/blask.pqm" style="text-decoration:none;" target="blank"><img src="svg/fb.svg" alt="Blask-facebook" /></a>
   <!-- <a href="https://www.youtube.com" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="Blask-youtube" />
   </a>
   <a href="https://www.linkedin.com/in/blask" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="Blask-linkedin" />
   </a> -->
-  <a href="https://www.instagram.com/blask.pqm" style="text-decoration:none;" target="blank">
-    <img src="svg/ig.svg" alt="Blask-instagram" />
-  </a>
-  <a href="mailto:blaskvn+mailfromgithub@gmail.com" style="text-decoration:none;" target="top">
-    <img src="svg/email.svg" alt="Blask-email" />
-  </a>
+<a href="https://www.instagram.com/blask.pqm" style="text-decoration:none;" target="blank"><img src="svg/ig.svg" alt="Blask-instagram" /></a>
+<a href="mailto:blaskvn+mailfromgithub@gmail.com" style="text-decoration:none;" target="top"><img src="svg/email.svg" alt="Blask-email" /></a>
 </div>
 
 
