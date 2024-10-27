@@ -1,4 +1,4 @@
-<a href="https://github.com/BlaskVN" target="blank" alt="❤️">
+<a href="https://github.com/BlaskVN" style="text-decoration:none;" target="blank" alt="❤️">
   <img src="svg/blask.svg" width="1200" alt="Blask" />
 </a>
 
@@ -41,7 +41,7 @@
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
 <div align=center>
-  <a href="#" title="Blask">
+  <a title="Blask">
     <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlaskVN&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="BlaskVN" />
     <img height="200" src="https://github-readme-stats.vercel.app/api?username=BlaskVN&theme=merko&hide_border=true&include_all_commits=true&count_private=true" alt="Blask" />
   </a>
@@ -51,7 +51,7 @@
 
 <!-- https://icons8.com -->
 <div align="center">
-    <a href="https://facebook.com/blask.pqm" target="blank">
+    <a href="https://facebook.com/blask.pqm" style="text-decoration:none;" target="blank">
     <img src="svg/fb.svg" alt="Blask-facebook" />
   </a>
   <!-- <a href="https://www.youtube.com" target="blank">
@@ -60,10 +60,10 @@
   <a href="https://www.linkedin.com/in/blask" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="Blask-linkedin" />
   </a> -->
-  <a href="https://www.instagram.com/blask.pqm" target="blank">
+  <a href="https://www.instagram.com/blask.pqm" style="text-decoration:none;" target="blank">
     <img src="svg/ig.svg" alt="Blask-instagram" />
   </a>
-  <a href="mailto:blaskvn+mailfromgithub@gmail.com" target="top">
+  <a href="mailto:blaskvn+mailfromgithub@gmail.com" style="text-decoration:none;" target="top">
     <img src="svg/email.svg" alt="Blask-email" />
   </a>
 </div>
