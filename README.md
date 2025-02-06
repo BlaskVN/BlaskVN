@@ -23,10 +23,15 @@
 
 <h2 align="center">📑Châm ngôn/Maxim/マキシム 📑</h2>
 
+<p style="text-align: center; font-size: 125%;"><b>From ashes to ashes, dust to dust.</b><br><br>
+<i>Linh hồn con sẽ tới nơi cần về, <br>còn trái tim và đôi mắt, con xin trả lại đất mẹ thiên nhiên, nơi con bắt đầu.</i><br><br></p>
+<p align="center" ><b>Blask</b></p>
+
+<!--
 <div align="center">
 <img src="svg/blask-quotes.svg" width="846" height="150" alt="Blask-official" />
 </div>
-
+-->
 #
 
 <div align="center">
