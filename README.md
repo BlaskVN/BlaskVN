@@ -13,6 +13,12 @@
 <img height="200" src="https://github-readme-stats.vercel.app/api?username=BlaskVN&theme=merko&hide_border=true&include_all_commits=true&count_private=true" alt="Blask" />
 </div>
 
+<!--Contribution Graph-->
+<h2 align="center">📈 Contribution Graph 📈</h2>
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Blaskvn&theme=merko&area=true&hide_title=true&hide_border=true&radius=15&grid=true&point=false">
+</div>
+
 <h2 align="center">🦁 Where to find me 🦁</h2>
 
 <div align="center">
@@ -45,3 +51,8 @@
 ![](https://visitcount.itsvg.in/api?id=BlaskVN&icon=10&color=13)
 </div>
 -->
+
+<!--Footer--> 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
