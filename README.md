@@ -19,13 +19,13 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Blaskvn&theme=merko&area=true&hide_title=true&hide_border=true&radius=15&grid=true&point=false">
 </div>
 
-<h2 align="center">🦁 Where to find me 🦁</h2>
+<!-- <h2 align="center">🦁 Where to find me 🦁</h2>
 
 <div align="center">
 <a href="https://facebook.com/blask.pqm" style="text-decoration:none;" target="blank"><img src="svg/fb.svg" alt="Blask-facebook" /></a>
 <a href="https://www.instagram.com/blask.pqm" style="text-decoration:none;" target="blank"><img src="svg/ig.svg" alt="Blask-instagram" /></a>
 <a href="mailto:blaskvn+mailfromgithub@gmail.com" style="text-decoration:none;" target="top"><img src="svg/email.svg" alt="Blask-email" /></a>
-</div>
+</div> -->
 
 <h2 align="center">📑Châm ngôn/Maxim/マキシム 📑</h2>
 <!-- Remove by github page can not display style
